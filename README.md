@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitorfrancisco0123&label=Profile%20views&color=0e75b6&style=flat" alt="vitorfrancisco0123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitorfrancisco0123" alt="vitorfrancisco0123" /></a> </p>
-
-- 🔭 I’m currently working on **my programming skills**
-
 - 🌱 I’m currently learning **SQL, R, Python and PowerBI**
 
 - 👯 I’m looking to collaborate on **data science projects**
